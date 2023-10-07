@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/student2/i4wang/coe318/lab3/Counter/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/student2/i4wang/coe318/lab3/Counter/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Counter 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Counter 1.0-SNAPSHOT API'

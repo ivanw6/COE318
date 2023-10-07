@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/student2/i4wang/coe318/lab1/Lab1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lab1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Lab1 1.0-SNAPSHOT API'
+coe318.lab1
+/home/student2/i4wang/coe318/lab1/Lab1/src/main/java = 1663093515894
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/allpackages-index.html = 1663094291401
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/member-search-index.js = 1663094291532
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/search.js = 1663094291827
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/element-list = 1663094290949
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/help-doc.html = 1663094291722
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/module-search-index.js = 1663094291432
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/jquery-ui.overrides.css = 1663094294483
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/index.html = 1663094291664
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/allclasses-index.html = 1663094291371
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/tag-search-index.js = 1663094291572
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/index-all.html = 1663094291632
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/package-search-index.js = 1663094291465
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/stylesheet.css = 1663094291758
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/type-search-index.js = 1663094291495
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/script.js = 1663094291788
+/home/student2/i4wang/coe318/lab1/Lab1/target/site/apidocs/overview-tree.html = 1663094291317
