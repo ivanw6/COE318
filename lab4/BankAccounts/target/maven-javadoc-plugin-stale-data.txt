@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/student2/i4wang/coe318/lab4/BankAccounts/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BankAccounts 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'BankAccounts 1.0-SNAPSHOT API'
+coe318.lab4
+/home/student2/i4wang/coe318/lab4/BankAccounts/src/main/java = 1664906884885
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/type-search-index.js = 1664909770801
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/search.js = 1664909770973
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/overview-tree.html = 1664909770606
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/allclasses-index.html = 1664909770668
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/tag-search-index.js = 1664909770852
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/element-list = 1664909769934
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/help-doc.html = 1664909770923
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/index.html = 1664909770902
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/module-search-index.js = 1664909770728
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/allpackages-index.html = 1664909770694
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/member-search-index.js = 1664909770838
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/jquery-ui.overrides.css = 1664909771305
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/stylesheet.css = 1664909770939
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/package-search-index.js = 1664909770767
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/script.js = 1664909770953
+/home/student2/i4wang/coe318/lab4/BankAccounts/target/site/apidocs/index-all.html = 1664909770880
