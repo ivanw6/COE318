@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: coe318.lab7.VoltageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec <<< FAILURE!
+coe318.lab7.VoltageTest.testGetNodes()  Time elapsed: 0.004 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Doesn't work
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at coe318.lab7.VoltageTest.testGetNodes(VoltageTest.java:48)
+
